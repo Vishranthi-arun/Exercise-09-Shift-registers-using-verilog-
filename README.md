@@ -126,13 +126,13 @@ endmodule
 
 ## TIMING DIGRAMS FOR SHIFT REGISTERS
 ### Parallel in Serial out (PISO)
-![time](https://user-images.githubusercontent.com/93427278/172871895-706d94f5-c92c-404d-9073-45b78b20fb48.png)
+![172892306-187e92e6-db61-45c0-9563-f89386f33147](https://user-images.githubusercontent.com/93427278/172904391-7a9c67c8-42a2-4941-934b-56909cff7d88.png)
 
 ### Parallel-In Parallel-Out(PIPO)
-![pipo2](https://user-images.githubusercontent.com/93427278/172872590-b851becb-9ca6-44a2-8778-d43d211c9e49.png)
+![pipowf](https://user-images.githubusercontent.com/93427278/172904421-3c2fa2fe-237c-40d5-973a-a307953f7485.png)
 
 ### Serial-In Parallel-Out(SIPO)
-![timing](https://user-images.githubusercontent.com/93427278/172871963-d987d3c8-9c6d-4d09-a1f7-da281d2ec04d.png)
+![sipowf](https://user-images.githubusercontent.com/93427278/172904359-f13e2ab5-5346-4292-a09b-e56ac9b77391.png)
 
 ## RESULT
 PISO , PIPO,PISO has been implemented using verilog and validated their functionality using their functional tables.
