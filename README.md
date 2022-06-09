@@ -43,8 +43,23 @@ FIGURE-04
 A Parallel in Parallel out (PIPO) shift register is used as a temporary storage device and like SISO Shift register it acts as a delay element.
 
 ### Procedure
+Step 1:
+Create a new file in quartus II.
 
+Step 2:
+Module Declaration. Module should have the file name.
 
+Step 3:
+Use begin declaration to define the functionality of logic circuits.
+
+Step 4:
+Within begin use if statements.
+
+Step 5:
+At the end give endmodule.
+
+Step 6:
+Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
 ```
@@ -114,7 +129,7 @@ endmodule
 ![time](https://user-images.githubusercontent.com/93427278/172871895-706d94f5-c92c-404d-9073-45b78b20fb48.png)
 
 ### Parallel-In Parallel-Out(PIPO)
-![timing](https://user-images.githubusercontent.com/93427278/172871924-f1886702-90e0-4210-b940-51b4ce21426b.png)
+![pipo2](https://user-images.githubusercontent.com/93427278/172872590-b851becb-9ca6-44a2-8778-d43d211c9e49.png)
 
 ### Serial-In Parallel-Out(SIPO)
 ![timing](https://user-images.githubusercontent.com/93427278/172871963-d987d3c8-9c6d-4d09-a1f7-da281d2ec04d.png)
